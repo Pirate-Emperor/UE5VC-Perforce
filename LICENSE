@@ -1,0 +1,81 @@
+# Pirate-Emperor License
+
+## 1. Definitions
+
+- **"Project"** refers to the specific software, source code, documentation, and associated files that are being licensed under this agreement.
+- **"You"** or **"Your"** refers to the individual or entity using the Project.
+- **"Author"** refers to Pirate-Emperor, the original creator and copyright holder of the Project.
+
+## 2. License Grant
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this Project and associated documentation files (the "Project"), to use the Project for personal and educational purposes only, subject to the following conditions:
+
+### 2.1 Non-Commercial Use
+
+The Project may not be used for any commercial purposes. This includes, but is not limited to, selling, licensing, or otherwise profiting from the Project or any derivative works.
+
+**Explanation**: Restricting commercial use prevents unauthorized monetization of the Project and ensures that it is used only for personal and educational purposes.
+
+### 2.2 No Distribution
+
+You may not distribute, publish, or otherwise make the Project available to third parties in any form, including modified or unmodified versions.
+
+**Explanation**: Preventing distribution protects the Project from unauthorized sharing, ensuring that it remains under the control of the Author.
+
+### 2.3 No Modification
+
+You may not modify, adapt, or create derivative works based on the Project without explicit written permission from the Author.
+
+**Explanation**: This clause ensures the integrity of the original work and prevents unauthorized changes or adaptations.
+
+### 2.4 Attribution Requirement
+
+Any use of the Project must include the following attribution: "© 2024 Pirate-Emperor. All rights reserved." The attribution must be clearly visible in any documentation, code comments, or UI elements where the Project is used.
+
+**Explanation**: Attribution ensures that the original author receives credit for their work and is a fundamental right under copyright law.
+
+### 2.5 No Reverse Engineering
+
+You may not reverse engineer, decompile, or disassemble the Project or attempt to derive the source code or underlying algorithms of the Project in any way.
+
+**Explanation**: Prohibiting reverse engineering protects the Author’s intellectual property and prevents unauthorized access to the underlying code.
+
+### 2.6 No Use in Harmful Activities
+
+The Project may not be used in any activity that is illegal, harmful, or unethical, including but not limited to activities involving malware, unauthorized surveillance, or any form of discrimination or exploitation.
+
+**Explanation**: This clause ensures that the Project is not used in ways that could harm others or violate laws.
+
+## 3. Copyright Notice
+
+All copies or substantial portions of the Project must include the following copyright notice:
+
+```
+© 2024 Pirate-Emperor. All rights reserved.
+```
+
+**Explanation**: Including a copyright notice informs users of the copyright holder and reinforces the Author’s ownership.
+
+## 4. Disclaimer of Warranty
+
+THE PROJECT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE PROJECT OR THE USE OR OTHER DEALINGS IN THE PROJECT.
+
+**Explanation**: This disclaimer limits the Author’s liability and ensures that the Project is provided without any warranties.
+
+## 5. Termination
+
+Your rights under this License will automatically terminate if you fail to comply with any term(s) of this License. Upon termination, you must destroy all copies of the Project in your possession.
+
+**Explanation**: Automatic termination upon breach ensures that unauthorized use of the Project ceases immediately.
+
+## 6. Governing Law
+
+This License shall be governed by and construed in accordance with the laws of the jurisdiction in which the Author resides, without regard to its conflict of law principles.
+
+**Explanation**: Specifying governing law provides clarity on which jurisdiction’s laws will apply in the event of a dispute.
+
+## 7. Contact Information
+
+For permission requests or inquiries, contact Pirate-Emperor at piratekingrahul@gmail.com.
+
+**Explanation**: Providing contact information ensures that users can reach the Author for permissions or clarifications.
